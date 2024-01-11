@@ -9,3 +9,4 @@
 9. [Toast notification](./09_toast_notification/)
 14. [Show and hide password](./14_password/)
 17. [Image gallary](./17_image_gallary/)
+21. [Coming soon Page](./21_coming_soon_page/)
