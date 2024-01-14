@@ -6,6 +6,7 @@
 2. [To Do List](./02_todo_list/)
 3. [Quiz app](./03_quiz_qpp/)
 4. [Random password generator](./04_random_password/)
+5. [Notes app](./05_notes_app/)
 6. [Age Calculator](./06_age_calculator/)
 8. [QR Code Generator](./08_QR_Code_generator/)
 9. [Toast notification](./09_toast_notification/)
