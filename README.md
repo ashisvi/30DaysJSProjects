@@ -8,6 +8,7 @@
 4. [Random password generator](./04_random_password/)
 5. [Notes app](./05_notes_app/)
 6. [Age Calculator](./06_age_calculator/)
+7. [Quote generator](./07_quote_generator/)
 8. [QR Code Generator](./08_QR_Code_generator/)
 9. [Toast notification](./09_toast_notification/)
 14. [Show and hide password](./14_password/)
