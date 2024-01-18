@@ -16,3 +16,4 @@
 17. [Image gallary](./17_image_gallary/)
 19. [Show password strength](./17_image_gallary/)
 21. [Coming soon Page](./21_coming_soon_page/)
+24. [Custom select menu](./24_select_menu/)
