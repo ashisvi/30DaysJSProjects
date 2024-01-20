@@ -14,6 +14,7 @@
 13. [Modal Box (Pop up)](./13_popup/)
 14. [Show and hide password](./14_show_hide_password/)
 17. [Image gallary](./17_image_gallary/)
+18. [Subscription form](./18_subscription_form/)
 19. [Show password strength](./17_image_gallary/)
 21. [Coming soon Page](./21_coming_soon_page/)
 23. [Mini calendar](./23_mini_calendar/)
