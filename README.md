@@ -19,3 +19,4 @@
 21. [Coming soon Page](./21_coming_soon_page/)
 23. [Mini calendar](./23_mini_calendar/)
 24. [Custom select menu](./24_select_menu/)
+29. [Drag & Drop](./29_drag_and_drop/)
