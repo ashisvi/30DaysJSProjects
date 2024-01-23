@@ -11,6 +11,7 @@
 7. [Quote generator](./07_quote_generator/)
 8. [QR Code Generator](./08_QR_Code_generator/)
 9. [Toast notification](./09_toast_notification/)
+11. [Stopwatch](./11_stopwatch/)
 13. [Modal Box (Pop up)](./13_popup/)
 14. [Show and hide password](./14_show_hide_password/)
 17. [Image gallary](./17_image_gallary/)
