@@ -18,6 +18,7 @@
 17. [Image gallary](./17_image_gallary/)
 18. [Subscription form](./18_subscription_form/)
 19. [Show password strength](./17_image_gallary/)
+20. [Text to voice converter](./20_text_to_voice/)
 21. [Coming soon Page](./21_coming_soon_page/)
 23. [Mini calendar](./23_mini_calendar/)
 24. [Custom select menu](./24_select_menu/)
