@@ -23,6 +23,7 @@
 23. [Mini calendar](./23_mini_calendar/)
 24. [Custom select menu](./24_select_menu/)
 25. [Circular progress bar](./25_circular_progressbar/)
+26. [Product page design](./26_product_page/)
 27. [Cryptocurrency website](./27_cryptocurrency_website/)
 28. [Digital clock](./28_digital_clock/)
 29. [Drag & Drop](./29_drag_and_drop/)
