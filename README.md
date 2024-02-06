@@ -22,6 +22,7 @@
 19. [Show password strength](./17_image_gallary/)
 20. [Text to voice converter](./20_text_to_voice/)
 21. [Coming soon Page](./21_coming_soon_page/)
+22. [Remove background image transition](./22_image_transition)
 23. [Mini calendar](./23_mini_calendar/)
 24. [Custom select menu](./24_select_menu/)
 25. [Circular progress bar](./25_circular_progressbar/)
