@@ -15,6 +15,7 @@
 12. [Calculator](./12_calculator/)
 13. [Modal Box (Pop up)](./13_popup/)
 14. [Show and hide password](./14_show_hide_password/)
+15. [Website with dark and light mode](./15_dark_mode_website/)
 16. [Form validation](./16_form_validation/)
 17. [Image gallary](./17_image_gallary/)
 18. [Subscription form](./18_subscription_form/)
