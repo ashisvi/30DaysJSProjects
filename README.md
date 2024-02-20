@@ -32,3 +32,4 @@
 28. [Digital clock](./28_digital_clock/)
 29. [Drag & Drop](./29_drag_and_drop/)
 30. [Image search engine](./30_image_search_engine/)
+31. [Bulk rename desktop app](./31_bulk_rename_desktop_app)
